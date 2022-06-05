@@ -14,11 +14,29 @@ for file in files:
     os.system(f'pdflatex -interaction=batchmode {file}')
     os.system(f'pdflatex -interaction=batchmode {file}')
 
-
+# Remove files that are not required
 files_to_delete = ['log', 'toc', 'aux', 'nav', 'snm', 'out']
 
 for filetype in files_to_delete:
-
     filelist = glob.glob(f'*.{filetype}')
     for f in filelist:
         os.remove(f)
+
+
+#Conversion (Ghostscript must be installed and in PATH) 
+pdfs = glob.glob('*.pdf')
+
+for pdf in pdfs:
+    print(pdf)
+    basename = pdf[:-4]
+    os.system(f'magick {pdf} Pics/{basename}.png')
+
+
+pdfs = glob.glob('*.pdf')
+with open('OVERVIEW.md','w') as output:
+    for pdf in pdfs:
+        basename = pdf[:-4]
+        for i in range(8):
+            output.write('![{basename}-{i}](Pics/{basename}-{i}.png)')
+        output.write('\r\n')
+
