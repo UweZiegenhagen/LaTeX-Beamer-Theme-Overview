@@ -1,6 +1,6 @@
 # LaTeX-Beamer-Theme-Overview
 
-Go to the ![Overview](OVERVIEW.md)
+Go to the [Overview](OVERVIEW.md)
 
 This repository contains an overview of many of the
 Beamer themes that come with the current TeX Live
