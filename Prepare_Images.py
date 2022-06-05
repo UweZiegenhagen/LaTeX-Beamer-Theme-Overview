@@ -36,8 +36,9 @@ pdfs = glob.glob('*.pdf')
 
 with open('OVERVIEW.md','w') as output:
     for pdf in pdfs:
-        basename = pdf[13:-4]
-        output.write(f'# {basename}\r\n\r\n')
+        theme = pdf[13:-4]
+        basename = pdf[:-4]
+        output.write(f'# {theme}\r\n\r\n')
         for i in range(8):
             output.write(f'![{basename}-{i}](Pics/{basename}-{i}.png)')
         output.write('\r\n')
