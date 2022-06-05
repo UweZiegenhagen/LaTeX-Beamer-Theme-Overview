@@ -1,8 +1,15 @@
 # LaTeX-Beamer-Theme-Overview
 
-This repository contains an overview of hopefully all
+Go to the ![Overview](OVERVIEW.md)
+
+This repository contains an overview of many of the
 Beamer themes that come with the current TeX Live
 distribution.
+
+I have used all themes that can be loaded using \usetheme{}.
+Some of the themes complain about missing images, however
+I run lualatex in batch mode, so these errors are ignored
+during compilation.
 
 Did I miss a theme? Please create an issue to inform me.
 

@@ -11,8 +11,8 @@ files = glob.glob('Presentation*.tex')
 
 for file in files:
     print(file)    
-    os.system(f'pdflatex -interaction=batchmode {file}')
-    os.system(f'pdflatex -interaction=batchmode {file}')
+    os.system(f'lualatex -interaction=batchmode {file}')
+    os.system(f'lualatex -interaction=batchmode {file}')
 
 # Remove files that are not required
 files_to_delete = ['log', 'toc', 'aux', 'nav', 'snm', 'out']
