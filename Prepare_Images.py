@@ -7,7 +7,7 @@ import glob
 
 
 # All files and directories ending with .txt and that don't begin with a dot:
-files = glob.glob('Presentation*.tex')
+files = glob.glob('./Presentation*.tex')
 
 for file in files:
     print(file)    
