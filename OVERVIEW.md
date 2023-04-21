@@ -148,9 +148,6 @@
 # Szeged
 
 ![Presentation-Szeged-0](Pics/Presentation-Szeged-0.png)![Presentation-Szeged-1](Pics/Presentation-Szeged-1.png)![Presentation-Szeged-2](Pics/Presentation-Szeged-2.png)![Presentation-Szeged-3](Pics/Presentation-Szeged-3.png)![Presentation-Szeged-4](Pics/Presentation-Szeged-4.png)![Presentation-Szeged-5](Pics/Presentation-Szeged-5.png)![Presentation-Szeged-6](Pics/Presentation-Szeged-6.png)![Presentation-Szeged-7](Pics/Presentation-Szeged-7.png)
-# tcolorbox
-
-![Presentation-tcolorbox-0](Pics/Presentation-tcolorbox-0.png)![Presentation-tcolorbox-1](Pics/Presentation-tcolorbox-1.png)![Presentation-tcolorbox-2](Pics/Presentation-tcolorbox-2.png)![Presentation-tcolorbox-3](Pics/Presentation-tcolorbox-3.png)![Presentation-tcolorbox-4](Pics/Presentation-tcolorbox-4.png)![Presentation-tcolorbox-5](Pics/Presentation-tcolorbox-5.png)![Presentation-tcolorbox-6](Pics/Presentation-tcolorbox-6.png)![Presentation-tcolorbox-7](Pics/Presentation-tcolorbox-7.png)
 # tree
 
 ![Presentation-tree-0](Pics/Presentation-tree-0.png)![Presentation-tree-1](Pics/Presentation-tree-1.png)![Presentation-tree-2](Pics/Presentation-tree-2.png)![Presentation-tree-3](Pics/Presentation-tree-3.png)![Presentation-tree-4](Pics/Presentation-tree-4.png)![Presentation-tree-5](Pics/Presentation-tree-5.png)![Presentation-tree-6](Pics/Presentation-tree-6.png)![Presentation-tree-7](Pics/Presentation-tree-7.png)
