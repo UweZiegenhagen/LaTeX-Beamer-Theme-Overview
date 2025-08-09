@@ -1,6 +1,3 @@
-# alic
-
-![Presentation-alic-0](Pics/Presentation-alic-0.png)![Presentation-alic-1](Pics/Presentation-alic-1.png)![Presentation-alic-2](Pics/Presentation-alic-2.png)![Presentation-alic-3](Pics/Presentation-alic-3.png)![Presentation-alic-4](Pics/Presentation-alic-4.png)![Presentation-alic-5](Pics/Presentation-alic-5.png)![Presentation-alic-6](Pics/Presentation-alic-6.png)![Presentation-alic-7](Pics/Presentation-alic-7.png)
 # Amurmaple
 
 ![Presentation-Amurmaple-0](Pics/Presentation-Amurmaple-0.png)![Presentation-Amurmaple-1](Pics/Presentation-Amurmaple-1.png)![Presentation-Amurmaple-2](Pics/Presentation-Amurmaple-2.png)![Presentation-Amurmaple-3](Pics/Presentation-Amurmaple-3.png)![Presentation-Amurmaple-4](Pics/Presentation-Amurmaple-4.png)![Presentation-Amurmaple-5](Pics/Presentation-Amurmaple-5.png)![Presentation-Amurmaple-6](Pics/Presentation-Amurmaple-6.png)![Presentation-Amurmaple-7](Pics/Presentation-Amurmaple-7.png)
@@ -37,15 +34,9 @@
 # CambridgeUS
 
 ![Presentation-CambridgeUS-0](Pics/Presentation-CambridgeUS-0.png)![Presentation-CambridgeUS-1](Pics/Presentation-CambridgeUS-1.png)![Presentation-CambridgeUS-2](Pics/Presentation-CambridgeUS-2.png)![Presentation-CambridgeUS-3](Pics/Presentation-CambridgeUS-3.png)![Presentation-CambridgeUS-4](Pics/Presentation-CambridgeUS-4.png)![Presentation-CambridgeUS-5](Pics/Presentation-CambridgeUS-5.png)![Presentation-CambridgeUS-6](Pics/Presentation-CambridgeUS-6.png)![Presentation-CambridgeUS-7](Pics/Presentation-CambridgeUS-7.png)
-# celestia
-
-![Presentation-celestia-0](Pics/Presentation-celestia-0.png)![Presentation-celestia-1](Pics/Presentation-celestia-1.png)![Presentation-celestia-2](Pics/Presentation-celestia-2.png)![Presentation-celestia-3](Pics/Presentation-celestia-3.png)![Presentation-celestia-4](Pics/Presentation-celestia-4.png)![Presentation-celestia-5](Pics/Presentation-celestia-5.png)![Presentation-celestia-6](Pics/Presentation-celestia-6.png)![Presentation-celestia-7](Pics/Presentation-celestia-7.png)
 # classic
 
 ![Presentation-classic-0](Pics/Presentation-classic-0.png)![Presentation-classic-1](Pics/Presentation-classic-1.png)![Presentation-classic-2](Pics/Presentation-classic-2.png)![Presentation-classic-3](Pics/Presentation-classic-3.png)![Presentation-classic-4](Pics/Presentation-classic-4.png)![Presentation-classic-5](Pics/Presentation-classic-5.png)![Presentation-classic-6](Pics/Presentation-classic-6.png)![Presentation-classic-7](Pics/Presentation-classic-7.png)
-# concrete
-
-![Presentation-concrete-0](Pics/Presentation-concrete-0.png)![Presentation-concrete-1](Pics/Presentation-concrete-1.png)![Presentation-concrete-2](Pics/Presentation-concrete-2.png)![Presentation-concrete-3](Pics/Presentation-concrete-3.png)![Presentation-concrete-4](Pics/Presentation-concrete-4.png)![Presentation-concrete-5](Pics/Presentation-concrete-5.png)![Presentation-concrete-6](Pics/Presentation-concrete-6.png)![Presentation-concrete-7](Pics/Presentation-concrete-7.png)
 # Copenhagen
 
 ![Presentation-Copenhagen-0](Pics/Presentation-Copenhagen-0.png)![Presentation-Copenhagen-1](Pics/Presentation-Copenhagen-1.png)![Presentation-Copenhagen-2](Pics/Presentation-Copenhagen-2.png)![Presentation-Copenhagen-3](Pics/Presentation-Copenhagen-3.png)![Presentation-Copenhagen-4](Pics/Presentation-Copenhagen-4.png)![Presentation-Copenhagen-5](Pics/Presentation-Copenhagen-5.png)![Presentation-Copenhagen-6](Pics/Presentation-Copenhagen-6.png)![Presentation-Copenhagen-7](Pics/Presentation-Copenhagen-7.png)
@@ -133,9 +124,6 @@
 # plain
 
 ![Presentation-plain-0](Pics/Presentation-plain-0.png)![Presentation-plain-1](Pics/Presentation-plain-1.png)![Presentation-plain-2](Pics/Presentation-plain-2.png)![Presentation-plain-3](Pics/Presentation-plain-3.png)![Presentation-plain-4](Pics/Presentation-plain-4.png)![Presentation-plain-5](Pics/Presentation-plain-5.png)![Presentation-plain-6](Pics/Presentation-plain-6.png)![Presentation-plain-7](Pics/Presentation-plain-7.png)
-# rainbow
-
-![Presentation-rainbow-0](Pics/Presentation-rainbow-0.png)![Presentation-rainbow-1](Pics/Presentation-rainbow-1.png)![Presentation-rainbow-2](Pics/Presentation-rainbow-2.png)![Presentation-rainbow-3](Pics/Presentation-rainbow-3.png)![Presentation-rainbow-4](Pics/Presentation-rainbow-4.png)![Presentation-rainbow-5](Pics/Presentation-rainbow-5.png)![Presentation-rainbow-6](Pics/Presentation-rainbow-6.png)![Presentation-rainbow-7](Pics/Presentation-rainbow-7.png)
 # Rochester
 
 ![Presentation-Rochester-0](Pics/Presentation-Rochester-0.png)![Presentation-Rochester-1](Pics/Presentation-Rochester-1.png)![Presentation-Rochester-2](Pics/Presentation-Rochester-2.png)![Presentation-Rochester-3](Pics/Presentation-Rochester-3.png)![Presentation-Rochester-4](Pics/Presentation-Rochester-4.png)![Presentation-Rochester-5](Pics/Presentation-Rochester-5.png)![Presentation-Rochester-6](Pics/Presentation-Rochester-6.png)![Presentation-Rochester-7](Pics/Presentation-Rochester-7.png)
@@ -157,18 +145,12 @@
 # Singapore
 
 ![Presentation-Singapore-0](Pics/Presentation-Singapore-0.png)![Presentation-Singapore-1](Pics/Presentation-Singapore-1.png)![Presentation-Singapore-2](Pics/Presentation-Singapore-2.png)![Presentation-Singapore-3](Pics/Presentation-Singapore-3.png)![Presentation-Singapore-4](Pics/Presentation-Singapore-4.png)![Presentation-Singapore-5](Pics/Presentation-Singapore-5.png)![Presentation-Singapore-6](Pics/Presentation-Singapore-6.png)![Presentation-Singapore-7](Pics/Presentation-Singapore-7.png)
-# spectrum
-
-![Presentation-spectrum-0](Pics/Presentation-spectrum-0.png)![Presentation-spectrum-1](Pics/Presentation-spectrum-1.png)![Presentation-spectrum-2](Pics/Presentation-spectrum-2.png)![Presentation-spectrum-3](Pics/Presentation-spectrum-3.png)![Presentation-spectrum-4](Pics/Presentation-spectrum-4.png)![Presentation-spectrum-5](Pics/Presentation-spectrum-5.png)![Presentation-spectrum-6](Pics/Presentation-spectrum-6.png)![Presentation-spectrum-7](Pics/Presentation-spectrum-7.png)
 # split
 
 ![Presentation-split-0](Pics/Presentation-split-0.png)![Presentation-split-1](Pics/Presentation-split-1.png)![Presentation-split-2](Pics/Presentation-split-2.png)![Presentation-split-3](Pics/Presentation-split-3.png)![Presentation-split-4](Pics/Presentation-split-4.png)![Presentation-split-5](Pics/Presentation-split-5.png)![Presentation-split-6](Pics/Presentation-split-6.png)![Presentation-split-7](Pics/Presentation-split-7.png)
 # Szeged
 
 ![Presentation-Szeged-0](Pics/Presentation-Szeged-0.png)![Presentation-Szeged-1](Pics/Presentation-Szeged-1.png)![Presentation-Szeged-2](Pics/Presentation-Szeged-2.png)![Presentation-Szeged-3](Pics/Presentation-Szeged-3.png)![Presentation-Szeged-4](Pics/Presentation-Szeged-4.png)![Presentation-Szeged-5](Pics/Presentation-Szeged-5.png)![Presentation-Szeged-6](Pics/Presentation-Szeged-6.png)![Presentation-Szeged-7](Pics/Presentation-Szeged-7.png)
-# tcolorbox
-
-![Presentation-tcolorbox-0](Pics/Presentation-tcolorbox-0.png)![Presentation-tcolorbox-1](Pics/Presentation-tcolorbox-1.png)![Presentation-tcolorbox-2](Pics/Presentation-tcolorbox-2.png)![Presentation-tcolorbox-3](Pics/Presentation-tcolorbox-3.png)![Presentation-tcolorbox-4](Pics/Presentation-tcolorbox-4.png)![Presentation-tcolorbox-5](Pics/Presentation-tcolorbox-5.png)![Presentation-tcolorbox-6](Pics/Presentation-tcolorbox-6.png)![Presentation-tcolorbox-7](Pics/Presentation-tcolorbox-7.png)
 # tree
 
 ![Presentation-tree-0](Pics/Presentation-tree-0.png)![Presentation-tree-1](Pics/Presentation-tree-1.png)![Presentation-tree-2](Pics/Presentation-tree-2.png)![Presentation-tree-3](Pics/Presentation-tree-3.png)![Presentation-tree-4](Pics/Presentation-tree-4.png)![Presentation-tree-5](Pics/Presentation-tree-5.png)![Presentation-tree-6](Pics/Presentation-tree-6.png)![Presentation-tree-7](Pics/Presentation-tree-7.png)
