@@ -157,6 +157,9 @@
 # trigon
 
 ![Presentation-trigon-0](Pics/Presentation-trigon-0.png)![Presentation-trigon-1](Pics/Presentation-trigon-1.png)![Presentation-trigon-2](Pics/Presentation-trigon-2.png)![Presentation-trigon-3](Pics/Presentation-trigon-3.png)![Presentation-trigon-4](Pics/Presentation-trigon-4.png)![Presentation-trigon-5](Pics/Presentation-trigon-5.png)![Presentation-trigon-6](Pics/Presentation-trigon-6.png)![Presentation-trigon-7](Pics/Presentation-trigon-7.png)
+# Verona
+
+![Presentation-Verona-0](Pics/Presentation-Verona-0.png)![Presentation-Verona-1](Pics/Presentation-Verona-1.png)![Presentation-Verona-2](Pics/Presentation-Verona-2.png)![Presentation-Verona-3](Pics/Presentation-Verona-3.png)![Presentation-Verona-4](Pics/Presentation-Verona-4.png)![Presentation-Verona-5](Pics/Presentation-Verona-5.png)![Presentation-Verona-6](Pics/Presentation-Verona-6.png)![Presentation-Verona-7](Pics/Presentation-Verona-7.png)
 # Warsaw
 
 ![Presentation-Warsaw-0](Pics/Presentation-Warsaw-0.png)![Presentation-Warsaw-1](Pics/Presentation-Warsaw-1.png)![Presentation-Warsaw-2](Pics/Presentation-Warsaw-2.png)![Presentation-Warsaw-3](Pics/Presentation-Warsaw-3.png)![Presentation-Warsaw-4](Pics/Presentation-Warsaw-4.png)![Presentation-Warsaw-5](Pics/Presentation-Warsaw-5.png)![Presentation-Warsaw-6](Pics/Presentation-Warsaw-6.png)![Presentation-Warsaw-7](Pics/Presentation-Warsaw-7.png)
